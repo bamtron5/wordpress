@@ -1,0 +1,14 @@
+{
+    "name": "qfor/wordpress",
+    "description": "1.0.0",
+    "authors": [
+        {
+            "name": "Brandon Morrison",
+            "email": "brandon.morrison@qfor.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "twbs/bootstrap": "~3.3@dev"
+    }
+}
